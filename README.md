@@ -19,4 +19,7 @@ Source of dataset:  Kaggle
 * No relation exists between danceablity % and total number of streams.
 * The most popular songs this year are released on 2022,2021 and 2020 in descending order.
 * No relation exists between bpm and the total number of streams.
-* Major mode is streamed more. (Major mode sounds bright, happy, and stable, with a specific pattern of intervals. Minor mode evokes a darker, sadder, and more reflective mood, with a distinct interval pattern.)
+* Major mode is streamed more than the minor mode. (Major mode sounds bright, happy, and stable, with a specific pattern of intervals. Minor mode evokes a darker, sadder, and more reflective mood, with a distinct interval pattern.)
+
+## See the code here 
+[SourceCode](https://github.com/chaw-thiri/Music-Analysis/blob/main/music_analysis.ipynb)
